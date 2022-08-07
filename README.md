@@ -19,7 +19,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
    <a href="https://github.com/apmodz/whatsapp-bot"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge/></a>
 
 <!--
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://replit.com/@apmmodz/apm-modz-bot)](https://https://replit.com/@apmmodz/apm-modz-bot)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/apmodz/whatsapp-bot) -->
 <details>
